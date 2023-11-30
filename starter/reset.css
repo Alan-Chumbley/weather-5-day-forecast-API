@@ -1,0 +1,30 @@
+
+.forecastContainer{
+  
+  background-color: #f0f0f0;
+
+  
+}
+#today{
+    background-color:#B0BDD0 ;
+}
+body {
+  min-height: 100vh;
+  max-width: 90%;
+  background-color: #B2CFE6; 
+  margin: 0 auto;
+}
+#search-input{
+  padding:12px 32px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+#search-button{
+  border-radius: 8px;
+  padding:8px 32px;
+  background-color: #FDF5BF;
+}
+#search-icon{
+margin:10px;
+
+}
