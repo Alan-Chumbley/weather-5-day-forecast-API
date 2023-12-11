@@ -2,11 +2,17 @@
 .forecastContainer{
   
   background-color: #f0f0f0;
+width: 100;
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+align-items:end
 
-  
 }
 #today{
     background-color:#B0BDD0 ;
+    display: flex;
+    justify-content: space-evenly
 }
 body {
   min-height: 100vh;
