@@ -269,10 +269,4 @@ get5DayForecast(location);
 });
 
 
-
-
-
-
-
-
 // next append html elements - where can i put it on my page

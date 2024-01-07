@@ -1,13 +1,13 @@
 
 .forecastContainer{
   
-  background-color: #f0f0f0;
+  background-color: whitesmoke;
 width: 100;
 display: flex;
 flex-wrap: nowrap;
 justify-content: space-between;
 align-items:end
-
+border-radius:8px;
 }
 #today{
     background-color:#B0BDD0 ;
